@@ -154,7 +154,7 @@ cd AuditTracking.Example
 dotnet run
 ```
 
-Navigate to `https://localhost:5001/swagger` to explore the API.
+Navigate to `https://localhost:7156/swagger` to explore the API.
 
 ## Project Structure
 
