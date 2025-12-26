@@ -1,0 +1,6 @@
+@AuditTracking.Example_HostAddress = http://localhost:5128
+
+GET {{AuditTracking.Example_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
