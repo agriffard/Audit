@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AuditTracking.API.Tests/AuditTracking.API.Tests.csproj" />
+  <Project Path="AuditTracking.API/AuditTracking.API.csproj" />
+  <Project Path="AuditTracking.Example/AuditTracking.Example.csproj" />
+</Solution>
